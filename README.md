@@ -1,29 +1,6 @@
-# vue-test
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### PC
+![image](https://github.com/user-attachments/assets/20a75a1d-a585-4740-a24a-0f9d0ce940a8)
+### タブレット
+![image](https://github.com/user-attachments/assets/6f4e5c4d-b281-4662-bdd5-97530e40171f)
+### スマホ
+![image](https://github.com/user-attachments/assets/509e5d4f-3bb8-4541-a16b-602c21aaacf2)
